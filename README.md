@@ -1,5 +1,6 @@
 # Coin-Flips
-<h2> Coin Flip Application <h2>
+<h2> Coin Flip Application </h2>
+  
 Recording the User's Choice (Head or Reverse)<br>
 Simulating tossing the coin randomly<br>
 Showing the result of the coin flip<br>
